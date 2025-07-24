@@ -54,7 +54,9 @@ This project captures live images using a webcam or mobile device, identifies us
 - Attendance only marked for recognized users (similarity ≥ 90%).
 
 ---
-📽️ **Demo Video:** [Watch here]
+📽️ **Watch the Attendify Demo Video**  
+[Demo](https://drive.google.com/file/d/1eZoKB3hAjl49Xyh5HzrCHcdST896OegY/view?usp=drive_link)
+
 ---
 
 ## 🧪 Local Setup
