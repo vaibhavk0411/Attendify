@@ -54,6 +54,8 @@ This project captures live images using a webcam or mobile device, identifies us
 - Attendance only marked for recognized users (similarity ≥ 90%).
 
 ---
+📽️ **Demo Video:** [Watch here]
+---
 
 ## 🧪 Local Setup
 
