@@ -56,35 +56,35 @@ This project captures live images using a webcam or mobile device, identifies us
 ---
 
 ## 🧪 Local Setup
+
 Follow these steps to run the project locally:
 
-1. Install Dependencies
-Make sure you have Node.js installed. Then run:
+### 1. Install Dependencies  
+Ensure you have Node.js installed on your machine. Then run:
 
-bash
-Copy
-Edit
+```bash
 npm install
-2. Configure Environment Variables
+```
+
+###2 . Configure Environment Variables
 Create a .env file in the root directory with the following content:
 
-env
-Copy
-Edit
+```
 VITE_BUCKET_NAME=attendify-user-uploads
 VITE_REGION=ap-south-1
 VITE_IDENTITY_POOL_ID=ap-south-1:xxxx-xxxx-xxxx-xxxx
 VITE_API_GATEWAY_URL=https://xxxxxx.execute-api.ap-south-1.amazonaws.com/prod/mark-attendance
-Replace the xxxx placeholders with your actual AWS resource IDs.
+```
 
 3. Start the Development Server
-Run the Vite dev server:
-
-bash
-Copy
-Edit
+Run the Vite development server:
+```
 npm run dev
-The app should now be running at http://localhost:5173 (or another available port).
+```
+The app should now be running at http://localhost:5173.
+
+
+
 
 
 
