@@ -1,4 +1,4 @@
-# 🟢 Serverless Attendance System Using Face Recognition
+# 🟢 Attendify - Serverless Attendance System Using Face Recognition
 
 A modern, real-time attendance tracking system that uses **React + AWS Rekognition + Serverless Architecture** to detect faces and log attendance.
 
